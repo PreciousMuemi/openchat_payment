@@ -2,4 +2,3 @@
 members = [
     "src/openchat_payment_backend"
 ]
-resolver = "2"
